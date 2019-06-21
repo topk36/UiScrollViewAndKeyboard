@@ -1,6 +1,6 @@
 import UIKit
 
-class LoginController: UIViewController {
+class ViewController: UIViewController {
     
     @IBOutlet weak var scrollView: UIScrollView!
 
